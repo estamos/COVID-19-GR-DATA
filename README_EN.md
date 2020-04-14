@@ -40,3 +40,4 @@ Folder | Type | Source | About
 :------:|:--------:|:--------:|:--------:|
 [DAILY-REPORTS-GR](https://eody.gov.gr/en/) | Daily Reports | [Daily Reports of National Public Health Organization](https://eody.gov.gr/epidimiologika-statistika-dedomena/imerisies-ektheseis-covid-19/) | Outbreak in Greece
 [CITIZENS-MOBILITY-GR](https://eody.gov.gr/) | Reports | [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) | Greek Citizens Mobility
+[FURTHER-COVID-19-DATA-GR](https://github.com/estamos/COVID-19-GR-DATA/tree/master/FURTHER-COVID-19-DATA-GR) | Graphs and Timeline | [National Public Health Organization Announceement](https://eody.gov.gr/en/further-covid-19-data-from-greece/) | Outbreak in Greece 27-03 to 03-04
