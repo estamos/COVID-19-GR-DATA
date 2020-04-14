@@ -41,7 +41,7 @@ Folder | Type | Source | About | Language
 :------:|:--------:|:--------:|:--------:|:--------:|
 [DAILY-REPORTS-GR](https://eody.gov.gr/en/) | Daily Reports | [Daily Reports of National Public Health Organization](https://eody.gov.gr/epidimiologika-statistika-dedomena/imerisies-ektheseis-covid-19/) | Outbreak in Greece | Greek
 [CITIZENS-MOBILITY-GR](https://eody.gov.gr/) | Reports | [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) | Greek Citizens Mobility | English
-[FURTHER-COVID-19-DATA-GR](https://github.com/estamos/COVID-19-GR-DATA/tree/master/FURTHER-COVID-19-DATA-GR) | Graphs and Timeline | [National Public Health Organization Announceement](https://eody.gov.gr/en/further-covid-19-data-from-greece/) | Outbreak in Greece 27-03 to 03-04 | English
+[FURTHER-COVID-19-DATA-GR](https://github.com/estamos/COVID-19-GR-DATA/tree/master/FURTHER-COVID-19-DATA-GR) | Graphs and Timeline | [National Public Health Organization Announcement](https://eody.gov.gr/en/further-covid-19-data-from-greece/) | Outbreak in Greece 27-03 to 03-04 | English
 [INFO-GR-EN](https://github.com/estamos/COVID-19-GR-DATA/tree/master/INFO-GR-EN) | Information Posters | [Information messages for the new coronsvirus 2019-nCoV](https://eody.gov.gr/enimerotika-minymata-gia-ton-neo-koronaio-2019-ncov/) | Information of Greek citizens | Greek & English
 [3D-PRINT-COVID-19](https://github.com/estamos/COVID-19-GR-DATA/tree/master/3D-PRINT-COVID-19) |  Files and Instructions for 3D printing masks and door openers | [3d-makers.gov.gr](https://3d-makers.gov.gr/) | Create and offer supply through 3D printing | Greek
 
