@@ -18,7 +18,7 @@
   <a href="https://www.moh.gov.gr/">
     <img alt="Ministry of Health" src="https://img.shields.io/badge/Ministry of Health-orange.svg" />
   </a>
-  <a href="https://tel:1135">
+  <a href="tel:1135">
     <img alt="1135" src="https://img.shields.io/badge/1135-green.svg" />
   </a>  
   <a href="https://mailto:info@eody.gov.gr">
