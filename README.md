@@ -27,6 +27,9 @@
 </div>
 
 ## Πηγή δεδομένων
+<h1 align="center" href="https://eody.gov.gr/" title="Εθνικός Οργανισμός Υγείας">
+    <img alt="Μένουμε σπίτι" src="https://eody.gov.gr/wp-content/themes/egritosTpl/images/eody-el.png" width="164px" height="189px" />
+</h1>
 
 Όλα τα δεδομένα προέρχονται από επίσημες ανακοινώσεις και αναφορές του [Εθνικού Οργανισμού Υγείας](https://eody.gov.gr/), καθώς και από αναφορές της [Google](https://www.google.com/covid19/mobility/).
 
@@ -34,5 +37,5 @@
 
 Φάκελος | Τύπος Δεδομένων | Πηγή | Αφορά
 :------:|:--------:|:--------:|:--------:|
-[ΕΟΔΥ](https://eody.gov.gr/) | Ημερήσιες Αναφορές | [Ημερήσιες Εκθέσεις Εθνικού Οργανισμού Υγείας](https://eody.gov.gr/epidimiologika-statistika-dedomena/imerisies-ektheseis-covid-19/) | Εξέλιξη πανδημίας
+[ΕΟΔΥ](https://eody.gov.gr/) | Ημερήσιες Αναφορές | [Ημερήσιες Εκθέσεις Εθνικού Οργανισμού Υγείας](https://eody.gov.gr/epidimiologika-statistika-dedomena/imerisies-ektheseis-covid-19/) | Εξέλιξη πανδημίας στην Ελλάδα
 [Mobility](https://eody.gov.gr/) | Αναφορές | [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) | Δραστηριότητα Ελλήνων πολιτών
