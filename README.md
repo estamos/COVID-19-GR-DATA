@@ -18,7 +18,7 @@
   <a href="https://www.moh.gov.gr/">
     <img alt="Υπουργείο%20Υγείας" src="https://img.shields.io/badge/Υπουργείο%20Υγείας-orange.svg" />
   </a>
-  <a href="">
+  <a href="tel:1135">
     <img alt="1135" src="https://img.shields.io/badge/1135-green.svg" />
   </a>  
   <a href="mailto:info@eody.gov.gr">
@@ -27,8 +27,10 @@
 </div>
 
 # Πηγή δεδομένων
-<h1 align="center" href="https://eody.gov.gr/" title="Εθνικός Οργανισμός Υγείας">
+<h1 align="center">
+  <a href="https://eody.gov.gr/" title="Εθνικός Οργανισμός Δημόσιας Υγείας">
     <img alt="Μένουμε σπίτι" src="https://eody.gov.gr/wp-content/themes/egritosTpl/images/eody-el.png" width="164px" height="189px" />
+  </a>
 </h1>
 
 Όλα τα δεδομένα προέρχονται από επίσημες ανακοινώσεις και αναφορές του [Εθνικού Οργανισμού Υγείας](https://eody.gov.gr/), καθώς και από αναφορές της [Google](https://www.google.com/covid19/mobility/).
