@@ -1,4 +1,6 @@
-<h1 align="center"><a href="https://menoumespiti.gr/" title="Μένουμε Σπίτι"></a></h1>
+<p align="center">
+  <a href="https://github.com/estamos/COVID-19-GR-DATA/blob/master/README_EN.md">English</a>
+</p>
 
 <h1 align="center">Δεδομένα Covid-19 στην Ελλάδα
 <h1 align="center">
