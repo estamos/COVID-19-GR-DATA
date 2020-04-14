@@ -18,10 +18,10 @@
   <a href="https://www.moh.gov.gr/">
     <img alt="Υπουργείο%20Υγείας" src="https://img.shields.io/badge/Υπουργείο%20Υγείας-orange.svg" />
   </a>
-  <a href="https://tel:1135">
+  <a href="tel:1135">
     <img alt="1135" src="https://img.shields.io/badge/1135-green.svg" />
   </a>  
-  <a href="https://mailto:info@eody.gov.gr">
+  <a href="mailto:info@eody.gov.gr">
     <img alt="Email" src="https://img.shields.io/badge/info@eody.gov.gr-red.svg" />
   </a>
 </div>
