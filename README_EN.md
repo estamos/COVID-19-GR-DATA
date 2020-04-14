@@ -48,7 +48,7 @@ Folder | Type | Source | About | Language
 <h1 align="center">Map of the COVID-19 outbreak in Greece as of 29 March 2020
   <a href="https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Greece" title="Χάρτης της έξαρσης COVID-19 στην Ελλάδα ως και τις 29 Μαρτίου">
     <img alt="Map of the COVID-19 outbreak in Greece as of 29 March 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/COVID-19_Outbreak_Cases_in_Greece_per_regional_unit_%28prefecture%29.svg/2498px-COVID-19_Outbreak_Cases_in_Greece_per_regional_unit_%28prefecture%29.svg.png" />
-    <img alt="Map of the COVID-19 outbreak in Greece as of 29 March 2020" src="https://raw.githubusercontent.com/estamos/COVID-19-GR-DATA/master/FURTHER-COVID-19-DATA-GR/COVID-19_Outbreak_Cases_in_Greece_per_regional_unit_ΕΝ.png" width="214px" height="178px"/>    
+    <img alt="Map of the COVID-19 outbreak in Greece as of 29 March 2020" src="https://raw.githubusercontent.com/estamos/COVID-19-GR-DATA/master/FURTHER-COVID-19-DATA-GR/COVID-19_Outbreak_Cases_in_Greece_per_regional_unit_EN.png" width="214px" height="178px"/>    
   </a>
   <br />
 </h1>
