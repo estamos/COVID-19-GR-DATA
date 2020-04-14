@@ -27,9 +27,9 @@
 </div>
 
 ## Πηγή δεδομένων
-<p float="left">
+<p float="middle">
   <img src="https://eody.gov.gr/wp-content/themes/egritosTpl/images/eody-el.png" width="164px" height="189px" />
-  <img src="https://www.moh.gov.gr/style/images/logo.png" width="252px" height="60px" /> 
+  <img src="https://www.moh.gov.gr/style/images/logo.png" width="164px" height="60px" /> 
 </p>
 Όλα τα δεδομένα προέρχονται από επίσημες ανακοινώσεις και αναφορές του [Εθνικού Οργανισμού Υγείας](https://eody.gov.gr/), καθώς και από αναφορές της [Google](https://www.google.com/covid19/mobility/).
 
