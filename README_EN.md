@@ -31,7 +31,7 @@
     <img alt="NPHO" src="https://eody.gov.gr/wp-content/themes/egritosTpl/images/eody-en.png" width="164px" height="189px" />
 </h1>
 
-All data are collected by official daily report of [National Public Health Organization](https://eody.gov.gr/en/), and by [Google](https://www.google.com/covid19/mobility/) COVID-19 Community Mobility Reports .
+All data are collected by official daily reports of [National Public Health Organization](https://eody.gov.gr/en/), and by [Google](https://www.google.com/covid19/mobility/) COVID-19 Community Mobility Reports for Greece.
 
 
 # Data types
