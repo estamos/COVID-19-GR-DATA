@@ -33,7 +33,7 @@
   </a>
 </h1>
 
-Όλα τα δεδομένα προέρχονται από επίσημες ανακοινώσεις και αναφορές του [Εθνικού Οργανισμού Υγείας](https://eody.gov.gr/), καθώς και από αναφορές της [Google](https://www.google.com/covid19/mobility/).
+Όλα τα δεδομένα προέρχονται από επίσημες ανακοινώσεις και [ημερήσιες εκθέσεις](https://eody.gov.gr/epidimiologika-statistika-dedomena/imerisies-ektheseis-covid-19/) του [Εθνικού Οργανισμού Υγείας](https://eody.gov.gr/), καθώς και από [αναφορές](https://www.google.com/covid19/mobility/) της Google για την χώρα μας.
 
 ## Κατηγορίες Δεδομένων
 
