@@ -1,6 +1,6 @@
 <h1 align="center">Δεδομένα Covid-19 στην Ελλάδα
 
-  [English verison](https://github.com/estamos/COVID-19-GR-DATA/blob/master/README_EN.md)
+  ##[English version](https://github.com/estamos/COVID-19-GR-DATA/blob/master/README_EN.md)
 
 </h1>
 <h1 align="center">
