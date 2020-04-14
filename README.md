@@ -27,7 +27,7 @@
 </div>
 
 ## Πηγή δεδομένων
-<p float="middle">
+<p float="center">
   <img src="https://eody.gov.gr/wp-content/themes/egritosTpl/images/eody-el.png" width="164px" height="189px" />
   <img src="https://www.moh.gov.gr/style/images/logo.png" width="164px" height="60px" /> 
 </p>
