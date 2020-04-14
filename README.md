@@ -18,7 +18,7 @@
   <a href="https://www.moh.gov.gr/">
     <img alt="Υπουργείο%20Υγείας" src="https://img.shields.io/badge/Υπουργείο%20Υγείας-orange.svg" />
   </a>
-  <a href="tel:1135">
+  <a href="">
     <img alt="1135" src="https://img.shields.io/badge/1135-green.svg" />
   </a>  
   <a href="mailto:info@eody.gov.gr">
