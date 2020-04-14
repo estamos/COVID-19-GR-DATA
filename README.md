@@ -37,5 +37,5 @@
 
 Φάκελος | Τύπος Δεδομένων | Πηγή | Αφορά
 :------:|:--------:|:--------:|:--------:|
-[ΕΟΔΥ](https://eody.gov.gr/) | Ημερήσιες Αναφορές | [Ημερήσιες Εκθέσεις Εθνικού Οργανισμού Υγείας](https://eody.gov.gr/epidimiologika-statistika-dedomena/imerisies-ektheseis-covid-19/) | Εξέλιξη πανδημίας στην Ελλάδα
-[Mobility](https://eody.gov.gr/) | Αναφορές | [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) | Δραστηριότητα Ελλήνων πολιτών
+[DAILY-REPORTS-GR](https://eody.gov.gr/) | Ημερήσιες Αναφορές | [Ημερήσιες Εκθέσεις Εθνικού Οργανισμού Υγείας](https://eody.gov.gr/epidimiologika-statistika-dedomena/imerisies-ektheseis-covid-19/) | Εξέλιξη πανδημίας στην Ελλάδα
+[CITIZENS-MOBILITY-GR](https://eody.gov.gr/) | Αναφορές | [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) | Δραστηριότητα Ελλήνων πολιτών
