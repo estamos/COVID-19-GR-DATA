@@ -2,6 +2,19 @@
   <a href="https://github.com/estamos/COVID-19-GR-DATA/blob/master/README_EN.md">English</a>
 </p>
 
+<p align="center">
+Χάρτης εξάπλωσης Covid-19 στην ελληνική επικράτεια 26-02 έως 15-04
+</p>
+
+<p align="center">
+<img src= "https://raw.githubusercontent.com/estamos/COVID-19-GR-DATA/master/FURTHER-COVID-19-DATA-GR/COVID-19-GR-26-FEBR-15-APRIL.gif">
+</p>
+
+
+<p align="center">
+Πηγή: <a href="https://lab.imedd.org/covid19/">IMΕdD</a>
+</p>
+
 <h1 align="center">Δεδομένα Covid-19 στην Ελλάδα
 <h1 align="center">
   <a href="https://menoumespiti.gr/" title="Μένουμε Σπίτι">
