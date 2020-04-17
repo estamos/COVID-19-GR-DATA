@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://covid19.gov.gr/covid19-live-analytics/">
-    <img alt="ΕΟΔΥ" src="https://img.shields.io/badge/CoVid19-live-analytics-blue.svg" />
+    <img alt="Ημερήσια επισκόπηση COVID-19" src="https://img.shields.io/badge/Ημερήσια επισκόπηση-COVID%2019-blue.svg" />
   </a>
 </div>
 
