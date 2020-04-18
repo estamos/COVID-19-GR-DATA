@@ -1,5 +1,10 @@
 <h1 align="center">Covid-19 data for Greece
 </h1>
+<div align="center">
+  <a href="https://covid19.gov.gr/covid19-live-analytics/">
+    <img alt="Covid-19 Daily Statistics COVID-19" src="https://img.shields.io/badge/Daily Statistics-COVID%2019-blue.svg" />
+  </a>
+</div>
 <h1 align="center">
   <a href="https://menoumespiti.gr/" title="Staying Home">
     <img alt="Μένουμε σπίτι" src="https://menoumespiti.gr/wp-content/uploads/2020/03/menoume_spiti-600-600-plain.svg" width="164px" height="189px" />
