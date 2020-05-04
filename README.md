@@ -20,6 +20,19 @@
   Μένουμε Σπίτι
 </p>
 
+
+<h1 align="center">
+  <a href="https://menoumespiti.gr/" title="Μένουμε Ασφαλείς">
+    <img alt="Μένουμε Ασφαλείς" src="https://menoumespiti.gr/wp-content/uploads/2020/04/social-menoume-asfaleis-1536x864.png" width="768x" height="432px" />
+  </a>
+  <br />
+</h1>
+<p align="center">
+  Μένουμε Ασφαλείς
+</p>
+
+
+
 <div align="center">
   <a href="https://eody.gov.gr/">
     <img alt="ΕΟΔΥ" src="https://img.shields.io/badge/ΕΟΔΥ-blue.svg" />
