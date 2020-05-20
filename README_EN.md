@@ -24,7 +24,7 @@
   <br />
 </h1>
 <p align="center">
-  Staying Safde
+  Staying Safe
 </p>
 
 <div align="center">
