@@ -24,7 +24,7 @@
 <h1 align="center">
   <a href="https://menoumespiti.gr/" title="Μένουμε Ασφαλείς">
     <img alt="Μένουμε Ασφαλείς" src="https://covid19.gov.gr/wp-content/uploads/2020/05/menoume_asfaleis_blue.svg"
- width="100.6px" height="100px" />
+ width="164px" height="189px" />
   </a>
   <br />
 </h1>
