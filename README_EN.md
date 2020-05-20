@@ -16,6 +16,17 @@
   Staying Home
 </p>
 
+<h1 align="center">
+  <a href="https://menoumespiti.gr/" title="Staying Safe">
+    <img alt="Μένουμε Ασφαλείς" src="https://covid19.gov.gr/wp-content/uploads/2020/05/menoume_asfaleis_blue.svg"
+ width="164px" height="189px" />
+  </a>
+  <br />
+</h1>
+<p align="center">
+  Staying Safde
+</p>
+
 <div align="center">
   <a href="https://eody.gov.gr/en/">
     <img alt="NPHO" src="https://img.shields.io/badge/NPHO-blue.svg" />
