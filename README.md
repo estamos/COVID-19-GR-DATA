@@ -32,6 +32,15 @@
   Μένουμε Ασφαλείς
 </p>
 
+<h1 align="center">
+  <a href="https://github.com/estamos/COVID-19-GR-DATA/blob/master/FURTHER-COVID-19-DATA-GR/May_1st_to_19th.gif" title="Εξέλιξη τον μήνα Μάιο">
+    <img alt="Εξέλιξη τον μήνα Μάιο" src="https://raw.githubusercontent.com/estamos/COVID-19-GR-DATA/master/FURTHER-COVID-19-DATA-GR/May_1st_to_19th.gif" width="512px" height="269px" />
+  </a>
+  <br />
+</h1>
+<p align="center">
+  Εξέλιξη τον μήνα Μάιο
+</p>
 
 
 <div align="center">
