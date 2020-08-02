@@ -34,6 +34,17 @@
 
 <h1 align="center">
   <a href="https://github.com/estamos/COVID-19-GR-DATA/blob/master/FURTHER-COVID-19-DATA-GR/May_1st_to_19th.gif" title="Εξέλιξη τον μήνα Μάιο">
+    <img alt="Εξέλιξη 1η Ιουνίου - 1η Αυγούστου" src="https://raw.githubusercontent.com/estamos/COVID-19-GR-DATA/master/FURTHER-COVID-19-DATA-GR/June_1st_to_August_1st.gif" width="512px" height="269px" />
+  </a>
+  <br />
+</h1>
+<p align="center">
+  Εξέλιξη τους μήνες Ιούνιο - Αύγουστο
+</p>
+
+
+<h1 align="center">
+  <a href="https://github.com/estamos/COVID-19-GR-DATA/blob/master/FURTHER-COVID-19-DATA-GR/May_1st_to_19th.gif" title="Εξέλιξη τον μήνα Μάιο">
     <img alt="Εξέλιξη τον μήνα Μάιο" src="https://raw.githubusercontent.com/estamos/COVID-19-GR-DATA/master/FURTHER-COVID-19-DATA-GR/May_1st_to_19th.gif" width="512px" height="269px" />
   </a>
   <br />
