@@ -8,6 +8,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://covid19.gov.gr/covid-map">
+    <img alt="Χάρτης Υγειονομικής Ασφάλειας και Προστασίας από τη λοίμωξη covid-19" src="https://img.shields.io/badge/Χάρτης-COVID%2019-blue.svg" />
+  </a>
+</div>
+
 
 <h1 align="center">Δεδομένα Covid-19 στην Ελλάδα
 <h1 align="center">
